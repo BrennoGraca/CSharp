@@ -5,3 +5,10 @@ C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a o
 C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\06-ByteBank\obj\Debug\06-ByteBank.exe
 C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\06-ByteBank\obj\Debug\06-ByteBank.pdb
+C:\Users\Brenno Graça\Desktop\TesteC#\CSharp\06-ByteBank\bin\Debug\06-ByteBank.exe.config
+C:\Users\Brenno Graça\Desktop\TesteC#\CSharp\06-ByteBank\bin\Debug\06-ByteBank.exe
+C:\Users\Brenno Graça\Desktop\TesteC#\CSharp\06-ByteBank\bin\Debug\06-ByteBank.pdb
+C:\Users\Brenno Graça\Desktop\TesteC#\CSharp\06-ByteBank\obj\Debug\06-ByteBank.csprojAssemblyReference.cache
+C:\Users\Brenno Graça\Desktop\TesteC#\CSharp\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Brenno Graça\Desktop\TesteC#\CSharp\06-ByteBank\obj\Debug\06-ByteBank.exe
+C:\Users\Brenno Graça\Desktop\TesteC#\CSharp\06-ByteBank\obj\Debug\06-ByteBank.pdb
