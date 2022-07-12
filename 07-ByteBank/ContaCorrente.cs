@@ -2,17 +2,22 @@
 {
     public class ContaCorrente
     {
-        public ContaCorrente(int agencia, int numero)
-        {
-            Agencia = agencia;
-            Numero = numero;
-        }
-
         public Cliente Titular { get; set; }
+
+        public static int TotalDeContasCriadas{ get; private set; }
+
         public int Numero { get; set; }
 
         private double _saldo = 100.0;
         private int _agencia;
+
+        public ContaCorrente(int agencia, int numero)
+        {
+            Agencia = agencia;
+            Numero = numero;
+
+            TotalDeContasCriadas++;
+        }
 
         public int Agencia
         {
