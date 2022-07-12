@@ -1,0 +1,7 @@
+C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\04-ByteBank\bin\Debug\04-ByteBank.exe.config
+C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\04-ByteBank\bin\Debug\04-ByteBank.exe
+C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\04-ByteBank\bin\Debug\04-ByteBank.pdb
+C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\04-ByteBank\obj\Debug\04-ByteBank.csprojAssemblyReference.cache
+C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\04-ByteBank\obj\Debug\04-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\04-ByteBank\obj\Debug\04-ByteBank.exe
+C:\Users\Brenno Graça\OneDrive\Alura\CSharp\Curso 1 - CSharp e orientação a objetos\01-ByteBankAula\04-ByteBank\obj\Debug\04-ByteBank.pdb
