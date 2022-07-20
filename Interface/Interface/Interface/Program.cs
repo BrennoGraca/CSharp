@@ -10,6 +10,13 @@ namespace Interface
     {
         static void Main(string[] args)
         {
+            IAcesso oAcesso = new Documento();
+            oAcesso.Ler();
+            oAcesso.Escrever();
+
+            IComprimir oComprimir = new Documento();
+            oComprimir.Comprimir();
+            oComprimir.Descomprimir();
 
             Console.ReadLine();
         }
